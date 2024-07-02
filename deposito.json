@@ -1,0 +1,72 @@
+[
+    {
+        "CodigoDeposito": 0,
+        "CapacidadMaxima": 500,
+        "Stock": [
+            {
+                "item": "7865-PL",
+                "cantidad": 90
+            },
+            {
+                "item": "4563-GT",
+                "cantidad": 410
+            }
+        ]
+    },
+    {
+        "CodigoDeposito": 1,
+        "CapacidadMaxima": 600,
+        "Stock": [
+            {
+                "item": "7561-PZ",
+                "cantidad": 50
+            },
+            {
+                "item": "4563-GT",
+                "cantidad": 250
+            }
+        ]
+    },
+    {
+        "CodigoDeposito": 2,
+        "CapacidadMaxima": 500,
+        "Stock": [
+            {
+                "item": "4563-GT",
+                "cantidad": 150
+            },
+            {
+                "item": "7561-PZ",
+                "cantidad": 20
+            },
+            {
+                "item": "POI-785",
+                "cantidad": 280
+            }
+        ]
+    },
+    {
+        "CodigoDeposito": 3,
+        "CapacidadMaxima": 1800,
+        "Stock": [
+            {
+                "item": "POI-785",
+                "cantidad": 619
+            },
+            {
+                "item": "7856-TR",
+                "cantidad": 1181
+            }
+        ]
+    },
+    {
+        "CodigoDeposito": 4,
+        "CapacidadMaxima": 3000,
+        "Stock": [
+            {
+                "item": "7856-TR",
+                "cantidad": 819
+            }
+        ]
+    }
+]
